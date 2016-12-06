@@ -1,0 +1,22 @@
+{
+  "name": "allex_leveldbbankwithcreditorslib",
+  "version": "1.0.0",
+  "description": "AllexJS lib for a LevelDB bank that allows each account to have a creditor",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.hers.rs:allex_libs/leveldbbankwithcreditors.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "leveldb",
+    "bank",
+    "creditors",
+    "lib"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
